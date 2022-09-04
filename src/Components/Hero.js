@@ -17,7 +17,7 @@ function Hero() {
           <img 
           id='image-code'
           className='flex ml-auto mr-[220px]'
-          src='https://i.hizliresim.com/rsleg19.jpg' width='350'/>
+          src='https://img.freepik.com/free-vector/open-source-concept-illustration_114360-3583.jpg?w=900&t=st=1662320844~exp=1662321444~hmac=da456f878cf1fd4c6acce0c55fecdd6052e0b7abc20e82457dff968704be7c8e' width='350'/>
         </div>
         <h2 id='linear' className='text-center mt-20 border-b-2 h-5'><h2 className='bg-white w-14 text-center mx-auto'>Wrafix</h2></h2>
     </div>

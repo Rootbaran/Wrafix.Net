@@ -1,0 +1,126 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Montserrat&family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+
+@layer base {
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+  }
+
+  body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #000;
+    background-color: #fff;
+   
+  }
+
+  ul li a {
+    transition: .4s;
+    padding: 0 15px;
+  }
+
+  ul li a:hover {
+    opacity: 0.6;
+  }
+
+  @media (max-width: 1920px) {
+    ul li a {
+      padding: 0 1px;
+    }
+
+    #main-img {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 0 auto;
+      margin-top: -20px;
+    }
+
+    #hero-text {
+      display: block;
+      margin: 0 auto;
+      text-align: center;
+      margin-top: -5px;
+      width: 330px;
+    }
+
+  }
+
+  #main-img {
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  
+#main-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  margin-top: 6px;
+  width: 700px
+}
+
+#hero-text {
+  width: 100%;
+}
+
+#hero-text h3{
+  margin-top: 10px;
+}
+
+#hero-text a {
+  display: flex;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 20px;
+  background: #63E5AC;
+  width: 200px;
+  height: 40px;
+  border-radius: 2px;
+  text-transform: uppercase;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  transition: .4s;
+
+}
+
+
+#hero-text a:hover {
+  opacity: 0.8;
+}
+
+#image-code {
+  margin-top: -420px; 
+  
+}
+
+
+h2#linear {
+  font-family: 'Marck Script', cursive;
+  font-size: 24px;
+  color: grey;
+  
+}
+
+#typer {
+  color: white;
+  background: rgb(16,172,132);
+  padding: 0.1em 1em;
+  width: 100px
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+}

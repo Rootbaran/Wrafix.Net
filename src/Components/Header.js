@@ -7,7 +7,7 @@ function Header() {
   return (
     <div class='h-15 border-b border-gray-100 w-full  m-3 px-4'>
        <ul className='bg-white h-16 text-black shadow-md'>
-          <a href="/" className='inline-flex font-semibold text-2xl uppercase font-[Montserrat] m-4 float-left '>Wrafix</a>
+          <a href="/" className='inline-flex font-semibold text-2xl font-[Montserrat] m-4 float-left '>./Wrafix.Net</a>
            
            <div className=' float-right m-3'> 
           

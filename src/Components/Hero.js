@@ -8,7 +8,7 @@ function Hero() {
             Wrafix
             <span className='font-thin'> olarak;</span>
           </h1>
-          <h2 className='flex font-medium'>
+          <h2 className='flex font-medium margin-10 '>
             sürekli geliştiriyoruz, geliştirmeye çalışıyoruz. <br/> topluluğa yararlı olmak için her geçen gün <br /> kendimizi daha da geliştiriyoruz.
           </h2>
           <a href='#discover' className='inline-flex mt-5 uppercase bg-[#0e57b8] text-white w-40 h-10 rounded-sm items-center justify-center hover:bg-[#1f4db1] transition-colors font-normal'> keşfe başla </a>

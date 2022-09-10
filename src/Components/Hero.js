@@ -32,7 +32,7 @@ function Hero() {
           <div className=' flex m-10 justify-center '> 
           
           <img className=' 	 rounded-md 	'
-          src='https://marketplace.canva.com/EAFEv5YM6Cc/1/0/1600w/canva-koyu-mavi-ve-mor-kalın-teknoloji-uygulaması-i̇şletme-web-sitesi-u8XIOmljIzk.jpg' width='1000'/>
+          src='https://imgyukle.com/f/2022/09/10/ngLfht.png' width='1000'/>
         
           </div>
         

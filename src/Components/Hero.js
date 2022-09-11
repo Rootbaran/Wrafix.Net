@@ -28,7 +28,7 @@ function Hero() {
           src='https://img.freepik.com/free-vector/pair-programming-concept-illustration_114360-2170.jpg?w=740&t=st=1662499056~exp=1662499656~hmac=dca34ae4353eb10f12543216e336003f23b4b0392d9ed9bd334dfcdfd8ba6f5d' width='315'/>
         </div>
 
-        
+        <div className=' p-5'> </div>
           <div className=' flex m-10 justify-center '> 
           
           <img className=' 	 rounded-md 	'

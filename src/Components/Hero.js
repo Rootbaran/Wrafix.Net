@@ -35,7 +35,8 @@ function Hero() {
           src='https://imgyukle.com/f/2022/09/10/ngLfht.png' width='1000'/>
         
           </div>
-        
+   
+
 
           
         <h2 id='linear' className='text-center mt-20 border-b-2 h-5 border-[#c2c2c2]'><h2 className='bg-white w-14 text-center mx-auto'>Wrafix</h2></h2>

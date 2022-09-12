@@ -32,7 +32,7 @@ function Hero() {
           <div className=' flex flex-wrap justify-center '> 
           
           <img className=' 	p-1 bg-white border rounded 	'
-          src='https://imgyukle.com/f/2022/09/10/ngLfht.png' width='1000'/>
+          src='https://i.hizliresim.com/7sff5eb.jpg' width='1000'/>
         
           </div>
         <h2 id='linear' className='text-center mt-20 border-b-2 h-5 border-[#c2c2c2]'><h2 className='bg-white w-14 text-center mx-auto'>Wrafix</h2></h2>

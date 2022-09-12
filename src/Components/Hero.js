@@ -29,9 +29,9 @@ function Hero() {
         </div>
 
         <div className=' p-5'> </div>
-          <div className=' flex m-10 justify-center '> 
+          <div className=' flex flex-wrap justify-center '> 
           
-          <img className=' 	 rounded-md 	'
+          <img className=' 	p-1 bg-white border rounded 	'
           src='https://imgyukle.com/f/2022/09/10/ngLfht.png' width='1000'/>
         
           </div>

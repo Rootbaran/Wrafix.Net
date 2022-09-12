@@ -10,7 +10,7 @@ function Footer() {
         <footer class=" text-center lg:text-left">
         <div class=" text-center p-4 float-right m-2 ">
           © 2022 Copyright:
-          <a class="text-gray-800" href="GitHub.Com/Rootbaran"> Wrafix.Net</a>
+          <a class="text-gray-800" href="GitHub.Com/Rootbaran"> Rootbarann </a>
         </div>
       
 

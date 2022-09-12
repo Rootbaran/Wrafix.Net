@@ -31,7 +31,7 @@ function Hero() {
         <div className=' p-5'> </div>
           <div className=' flex flex-wrap justify-center '> 
           
-          <img className=' 	p-1 bg-white border rounded 	'
+          <img className='  	'
           src='https://i.hizliresim.com/7sff5eb.jpg' width='1000'/>
         
           </div>

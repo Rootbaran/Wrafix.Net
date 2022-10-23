@@ -1,4 +1,7 @@
 import { Routes, Route, Link, NavLink } from "react-router-dom"
+import Projeler from "./pages/Projeler";
+import Deneme from "./pages/Deneme";
+import Portfolyo from "./pages/Portfolyo";
 import React,{ useState, useEffect } from 'react'
 import Header from './Components/Header'
 import Hero from './Components/Hero'
@@ -16,13 +19,15 @@ function App() {
     <>
     <Routes>
 
-      <Route path="/projeler" element= {<projeler />} />
+      <Route path="/projeler" element= {<Projeler />} />
 
-      <Route path="/portfolyo" element= {<portfolyo />} />
+      <Route path="/portfolyo" element= {<Portfolyo />} />
       
-      <Route path="/deneme" element= {<deneme />} />
+      <Route path="/deneme" element= {<Deneme />} />
 
-    </Routes><div className="App">
+    </Routes>
+      
+      <div className="App">
         <Header />
         <Hero />
         <Discover />

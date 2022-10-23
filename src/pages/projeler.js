@@ -1,7 +1,7 @@
-export default function projeler() {
+export default function Projeler() {
     return (
         <div>
-            projeler
+            Projeler
         </div>
     )
 }
